@@ -1,4 +1,4 @@
-# Node
+# Projects
  ##Task Manager App ( Node.js, Express, MongoDB)
  Built a RESTful to-do app with task managemet functionality.
 Implemented full CRUD with MongoDB
